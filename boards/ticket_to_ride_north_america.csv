@@ -1,0 +1,96 @@
+Numero,Origem,Destino,Custo,Cor
+1,Vancouver,Calgary,3,Todos
+2,Vancouver,Seattle,1,Todos
+3,Vancouver,Seattle,1,Todos
+4,Calgary,Seattle,4,Todos
+5,Calgary,Winnipeg,6,Branca
+6,Calgary,Helena,4,Todos
+7,Seattle,Helena,6,Amarelo
+8,Seattle,Portland,1,Todos
+9,Seattle,Portland,1,Todos
+10,Winnipeg,Sault St. Marie,6,Todos
+11,Winnipeg,Duluth,4,Preta
+12,Winnipeg,Helena,4,Azul
+13,Helena,Duluth,6,Laranja
+14,Helena,Salt Lake City,3,Roxa
+15,Helena,Denver,4,Verde
+16,Helena,Omaha,5,Vermelha
+17,Portland,San Francisco,5,Verde
+18,Portland,San Francisco,5,Roxa
+19,Portland,Salt Lake City,6,Azul
+20,Sault St. Marie,Toronto,2,Todos
+21,Sault St. Marie,Duluth,3,Todos
+22,Sault St. Marie,Montreal,5,Preta
+23,Duluth,Omaha,2,Todos
+24,Duluth,Omaha,2,Todos
+25,Duluth,Chicago,3,Vermelha
+26,Duluth,Toronto,6,Roxa
+27,Salt Lake City,San Francisco,5,Branca
+28,Salt Lake City,San Francisco,5,Laranja
+29,Salt Lake City,Las Vegas,3,Laranja
+30,Salt Lake City,Denver,3,Vermelha
+31,Salt Lake City,Denver,3,Amarela
+32,Omaha,Denver,4,Roxa
+33,Omaha,Kansas City,1,Todos
+34,Omaha,Kansas City,1,Todos
+35,Omaha,Chicago,4,Azul
+36,San Francisco,Los Angeles,3,Roxa
+37,San Francisco,Los Angeles,3,Amarela
+38,Toronto,Pittsburg,2,Todos
+39,Toronto,Montreal,3,Todos
+40,Toronto,Chicago,4,Branca
+41,Montreal,Boston,2,Todos
+42,Montreal,Boston,2,Todos
+43,Montreal,New York,3,Azul
+44,Chicago,Pittsburg,3,Laranja
+45,Chicago,Pittsburg,3,Preto
+46,Chicago,Saint Louis,2,Verde
+47,Chicago,Saint Louis,2,Branca
+48,Las Vegas,Los Angeles,2,Todos
+49,Kansas City,Oklahoma City,2,Todos
+50,Kansas City,Oklahoma City,2,Todos
+51,Kansas City,Saint Louis,2,Azul
+52,Kansas City,Saint Louis,2,Roxa
+53,Los Angeles,El Paso,6,Preto
+54,Los Angeles,Phoenix,3,Todos
+55,Pittsburg,New York,2,Branca
+56,Pittsburg,New York,2,Branca
+57,Pittsburg,Washington,2,Todos
+58,Pittsburg,Raleigh,2,Todos
+59,Pittsburg,Nashville,4,Amarelo
+60,Pittsburg,Saint Louis,5,Verde
+61,Boston,New York,2,Amarela
+62,Boston,New York,2,Vermelha
+63,New York,Washington,2,Laranja
+64,New York,Washington,2,Preto
+65,Saint Pauls,Little Rock,2,Todos
+66,Saint Pauls,Nashville,2,Todos
+67,Oklahoma City,Dallas,2,Todos
+68,Oklahoma City,Dallas,2,Todos
+69,Oklahoma City,Little Rock,2,Todos
+70,Oklahoma City,Santa Fe,3,Azul
+71,Oklahoma City,El Paso,5,Amarelo
+72,El Paso,Phoenix,3,Todos
+73,El Paso,Dallas,4,Vermelho
+74,El Paso,Santa Fe,2,Todos
+75,El Paso,Houston,6,Verde
+76,Phoenix,Santa Fe,3,Todos
+77,Washington,Raleigh,2,Todos
+78,Washington,Raleigh,2,Todos
+79,Raleigh,Atlanta,2,Todos
+80,Raleigh,Atlanta,2,Todos
+81,Raleigh,Charleston,2,Todos
+82,Raleigh,Nashville,3,Preto
+83,Nashville,Atlanta,1,Todos
+84,Nashville,Little Rock,3,Branco
+85,Little Rock,Dallas,2,Todos
+86,Little Rock,New Orleans,3,Verde
+87,Dallas,Houston,1,Todos
+88,Dallas,Houston,1,Todos
+89,Houston,New Orleans,2,Todos
+90,Atlanta,Miami,5,Azul
+91,Atlanta,New Orleans,4,Amarelo
+92,Atlanta,New Orleans,4,Laranja
+93,Atlanta,Charleston,2,Todos
+94,Charleston,Miami,4,Roxa
+95,New Orleans,Miami,6,Vermelho
