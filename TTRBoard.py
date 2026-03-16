@@ -22,8 +22,7 @@ class Board(object):
         self.board_graph = nx.Graph()
         self.cities = np.unique(board_data[['city_a', 'city_b']].values)
 
-        for city in self.cities:
-            self.board_graph.add_node(city)
+        self.board_graph.add_nodes_from(self.cities)
 
         for index, edge in board_data.iterrows():
             self.board_graph.add_edge(edge['city_a'], 
